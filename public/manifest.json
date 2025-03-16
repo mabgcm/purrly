@@ -1,0 +1,8 @@
+{
+  "short_name": "SexyDolls.app",
+  "name": "Your Premier Destination for High-Quality Sex Dolls",
+  "start_url": "sexydolls.app",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

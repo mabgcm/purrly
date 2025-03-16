@@ -1,0 +1,71 @@
+/* dash.css */
+/* dash.css */
+.dashboard-container {
+    padding-top: 56px;
+    /* Adjust based on your navbar height */
+}
+
+.navbar-nav .nav-link {
+    color: #000;
+    /* Adjust link color as needed */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+    /* Adjust hover color as needed */
+}
+
+
+.sidebar {
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    text-align: left;
+}
+
+.sidebar button:hover {
+    background-color: #0056b3;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+}
+
+.product-item,
+.order-item,
+.customer-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.product-item h4,
+.order-item h4,
+.customer-item h4 {
+    margin: 0 0 10px;
+}
+
+.product-details,
+.order-details,
+.customer-details {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.img-thumbnail {
+    width: 100px;
+    height: auto;
+}

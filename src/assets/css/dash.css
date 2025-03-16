@@ -1,0 +1,109 @@
+/* src/components/ProductManager.css */
+
+.product-manager-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-form-container {
+    margin-bottom: 30px;
+}
+
+.product-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.product-form h3 {
+    margin-bottom: 10px;
+}
+
+.product-form input,
+.product-form textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.product-form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.product-form button:hover {
+    background-color: #0056b3;
+}
+
+.product-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.product-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.product-details {
+    flex: 1;
+}
+
+.product-details h4 {
+    margin-top: 0;
+}
+
+.product-images img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.product-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.product-actions button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.product-actions button:hover {
+    background-color: #0056b3;
+}
+
+.product-actions button:nth-child(2) {
+    background-color: #dc3545;
+}
+
+.product-actions button:nth-child(2):hover {
+    background-color: #c82333;
+}
+
+.search-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    margin-bottom: 20px;
+}

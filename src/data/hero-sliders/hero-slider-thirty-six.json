@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/slider/sexydolls-text.png",
+    "backgroundImage": "/assets/img/slider/slider-38.jpg",
+    "title": "Realistic, Lifelike<br> Dolls for Every Desire",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "image": "",
+    "backgroundImage": "/assets/img/slider/slider-38a.jpg",
+    "title": "Experience <br>Unmatched Intimacy",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/slider/sexydolls-text.png",
+    "backgroundImage": "/assets/img/slider/slider-38b.jpg",
+    "title": "Tailored to <br>Your Fantasies",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 4,
+    "image": "",
+    "backgroundImage": "/assets/img/slider/slider-38c.jpg",
+    "title": "Designed for <br>Maximum <br> Satisfaction",
+    "url": "/shop-grid-standard"
+  }
+]
