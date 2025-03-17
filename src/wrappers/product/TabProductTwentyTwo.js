@@ -18,7 +18,7 @@ const TabProductTwentyTwo = ({
     <div className={clsx("product-area", spaceTopClass, spaceBottomClass, bgColorClass)}>
       <div className="container">
         <SectionTitle
-          titleText="Silicone Dolls"
+          titleText="GOTS Certified Products"
           positionClass="text-center"
           borderClass="no-border"
         />

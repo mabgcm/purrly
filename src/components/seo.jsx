@@ -22,9 +22,9 @@ SEO.propTypes = {
 }
 
 SEO.defaultProps = {
-    title: "SexyDolls",
+    title: "PurrlyBaby",
     titleTemplate: "Product Page",
-    description: "Silicone and TPE hi-quality realisic dolls",
+    description: "Organic Newborn Baby Products | Eco-Friendly Essentials",
 };
 
 export default SEO;

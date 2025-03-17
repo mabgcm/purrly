@@ -13,11 +13,11 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
       <p>
         &copy; {new Date().getFullYear()}{" "}
         <a
-          href="https://sexydolls.app"
+          href="https://purrlybaby.com"
           rel="noopener noreferrer"
           target="_blank"
         >
-          SexyDolls.app
+          PurrlyBaby.com
         </a>
         <br /> All Rights Reserved
       </p>

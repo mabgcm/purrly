@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/slider/sexydolls-text.png",
+    "image": "",
     "backgroundImage": "/assets/img/slider/slider-38.jpg",
-    "title": "Realistic, Lifelike<br> Dolls for Every Desire",
+    "title": "Wrap your little one in pure,<br> organic goodness.",
     "url": "/shop-grid-standard"
   },
   {
     "id": 2,
     "image": "",
     "backgroundImage": "/assets/img/slider/slider-38a.jpg",
-    "title": "Experience <br>Unmatched Intimacy",
+    "title": "Sustainable luxury <br>for your newborn",
     "url": "/shop-grid-standard"
   },
   {
     "id": 3,
-    "image": "/assets/img/slider/sexydolls-text.png",
+    "image": "",
     "backgroundImage": "/assets/img/slider/slider-38b.jpg",
-    "title": "Tailored to <br>Your Fantasies",
+    "title": "From our family to yours<br>natural baby products for a healthier, happier start.",
     "url": "/shop-grid-standard"
   },
   {
     "id": 4,
     "image": "",
     "backgroundImage": "/assets/img/slider/slider-38c.jpg",
-    "title": "Designed for <br>Maximum <br> Satisfaction",
+    "title": "Purely natural, purely safe <br>discover newborn treasures <br> for your bundle of joy. ",
     "url": "/shop-grid-standard"
   }
 ]

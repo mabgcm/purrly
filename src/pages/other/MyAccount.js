@@ -67,7 +67,7 @@ const MyAccount = () => {
     <Fragment>
       <SEO
         titleTemplate="My Account"
-        description="SexyDolls client details"
+        description="PurrlyBaby client details"
       />
       <LayoutOne headerTop="visible">
         <Breadcrumb

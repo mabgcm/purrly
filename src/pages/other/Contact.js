@@ -45,8 +45,8 @@ const Contact = () => {
                     </div>
                     <div className="contact-info-dec">
                       <p>
-                        <a href="https://sexydolls.app">
-                          sexydolls.app
+                        <a href="https://purrlybaby.com">
+                          purrlybaby.com
                         </a>
                       </p>
                     </div>
