@@ -3,6 +3,7 @@ import clsx from "clsx";
 import { Link } from "react-router-dom";
 import FooterCopyright from "../../components/footer/FooterCopyright";
 import FooterNewsletter from "../../components/footer/FooterNewsletter";
+import HeaderSocial from "../../components/header/sub-components/HeaderSocial";
 
 
 const FooterOne = ({
@@ -28,6 +29,7 @@ const FooterOne = ({
               footerLogo="/assets/img/logo/logo.png"
               spaceBottomClass="mb-30"
             />
+            <HeaderSocial />
           </div>
 
           <div
