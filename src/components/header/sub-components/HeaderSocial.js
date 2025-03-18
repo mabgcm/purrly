@@ -6,7 +6,8 @@ const HeaderSocial = () => {
         display: 'flex', // Use Flexbox to display elements horizontally
         justifyContent: 'start', // Center items horizontally
         alignItems: 'center', // Align items vertically in the center
-        marginTop: '50px'
+        marginTop: '15px',
+        marginBottom: '15px'
       }}
     >
       <ul
