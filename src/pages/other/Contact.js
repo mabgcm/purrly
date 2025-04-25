@@ -35,18 +35,17 @@ const Contact = () => {
                       <i className="fa fa-phone" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>+1 844 SXDOLLS</p>
-                      <p>+1 844 7936557</p>
+                      <a href="tel:+14372196444">+1 437 219-6444</a>
                     </div>
                   </div>
                   <div className="single-contact-info">
                     <div className="contact-icon">
-                      <i className="fa fa-globe" />
+                      <i className="fa fa-envelope" />
                     </div>
                     <div className="contact-info-dec">
                       <p>
-                        <a href="https://purrlybaby.com">
-                          purrlybaby.com
+                        <a href="mailto:order@purrlybaby.com">
+                          order@purrlybaby.com
                         </a>
                       </p>
                     </div>
