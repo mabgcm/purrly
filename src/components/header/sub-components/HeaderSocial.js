@@ -44,7 +44,7 @@ const HeaderSocial = () => {
           </a>
         </li>
 
-        <li style={{ marginRight: '30px' }}>
+        {/* <li style={{ marginRight: '30px' }}>
           <a
             className="tiktok"
             href="//www.tiktok.com/@purrly.baby"
@@ -54,7 +54,7 @@ const HeaderSocial = () => {
           >
             <i className="fab fa-tiktok" />
           </a>
-        </li>
+        </li> */}
 
         <li style={{ marginRight: '0' }}>
           <a
