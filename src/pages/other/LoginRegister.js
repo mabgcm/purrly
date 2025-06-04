@@ -87,8 +87,8 @@ const LoginRegister = () => {
   return (
     <Fragment>
       <SEO
-        titleTemplate="Login"
-        description="Login page of flone react minimalist eCommerce template."
+        titleTemplate="Purrly Baby Login"
+        description="Log In Purrly Baby to shop online."
       />
       <LayoutOne headerTop="visible">
         <Breadcrumb

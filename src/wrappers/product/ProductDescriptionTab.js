@@ -73,7 +73,7 @@ const ProductDescriptionTab = ({ spaceBottomClass, product }) => {
               <Tab.Pane eventKey="additionalInfo">
                 <div className="product-anotherinfo-wrapper">
                   <h2>Product Description</h2>
-                  <div className='p-1'>
+                  {/* <div className='p-1'>
                     <h3>Body Measurement</h3>
                     <img src="../../assets/img/product/bodytype.jpeg" className="w-100 pb-4" alt="body measurement" />
                     <img src="../../assets/img/product/skeleton.jpeg" className="w-100" alt="body structure" />
@@ -84,62 +84,28 @@ const ProductDescriptionTab = ({ spaceBottomClass, product }) => {
                     <img src="../../assets/img/product/texture.jpeg" className="w-100" alt="body texture" />
                   </div>
                 </div>
-                <div>
+                <div> */}
                   <div className="mt-4">
-                    <h3>Soft Silicone Head with Hair Implantation</h3>
+                    <h3>🌿 Soft, Safe & Hypoallergenic</h3>
                     <p>
-                      Experience unparalleled realism with our meticulously crafted silicone
-                      head. Each hair strand is individually implanted, giving a lifelike
-                      appearance and natural feel. The soft silicone material ensures a
-                      smooth and gentle touch, mimicking the softness of human skin.
+                      Made from organic, breathable cotton yarn, this newborn set is gentle on sensitive skin, free from harsh chemicals, and ideal for year-round comfort.
                     </p>
                   </div>
                   <div className="mt-3">
-                    <h3>Silicone Body with Vagina Shrinkage Function</h3>
+                    <h3>📦 Shipping & Delivery</h3>
                     <p>
-                      Our advanced silicone body features a unique vagina shrinkage
-                      function, providing a customizable and realistic experience. This
-                      innovative technology adapts to your needs, enhancing your intimate
-                      moments with a true-to-life sensation.
+                      Our products are carefully handmade and shipped directly from our trusted production partner in Turkey. All orders dispatch within 2-5 business days via UPS Express for fast, safe, and trackable delivery.
                     </p>
                   </div>
                   <div className="mt-3">
-                    <h3>Voice Function (Intelligent Conversation + Automatic Lovemaking Sound)</h3>
+                    <h3>Estimated Delivery Times:</h3>
                     <p>
-                      Engage in intelligent conversation with your companion, designed to
-                      respond with realistic and thoughtful dialogue. The voice function
-                      also includes automatic lovemaking sounds, adding an auditory
-                      dimension to your experience, making it more immersive and enjoyable.
+                      🇺🇸 United States: 2-4 business days
+                      🇨🇦 Canada: 2-4 business days
+                      🇪🇺 Europe: 1-3 business days
+                      🇦🇺 Australia & New Zealand: 3-6 business days
+                      🌎 Rest of the World: 3-7 business days
                     </p>
-                  </div>
-                  <div className="mt-3">
-                    <h3>Gel Breast Function</h3>
-                    <p>
-                      The gel breast function offers a natural feel, simulating the softness
-                      and bounce of real breasts. This feature enhances the tactile
-                      experience, making every touch and caress feel incredibly authentic.
-                    </p>
-                  </div>
-                  <div className="mt-3">
-                    <h3>Oral Sex Function</h3>
-                    <p>
-                      Enjoy a heightened level of intimacy with the oral sex function,
-                      designed to provide realistic sensations. This feature replicates the
-                      warmth and movement of oral pleasure, ensuring a satisfying and
-                      pleasurable experience every time.
-                    </p>
-                  </div>
-                  <div className="mt-2">
-                    <p>
-                      This product combines cutting-edge technology with high-quality
-                      materials to offer an unmatched realistic experience. Whether you're
-                      looking for companionship or intimate interaction, this product
-                      delivers on all fronts, ensuring your utmost satisfaction.
-                    </p>
-                  </div>
-                  <div className="mt-3">
-                    <h3>Our dolls come with:</h3>
-                    <img src="../../assets/img/product/freebies.jpeg" className="w-100 pb-2" alt="free products" />
                   </div>
                 </div>
               </Tab.Pane>

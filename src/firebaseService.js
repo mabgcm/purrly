@@ -5,11 +5,19 @@ import { ref, uploadBytes, getDownloadURL } from "firebase/storage";
 
 // Authentication functions
 export const registerUser = async (email, password) => {
+    if (!email || !password) {
+        throw new Error("Email and password are required.");
+    }
+    if (password.length < 6) {
+        throw new Error("Password must be at least 6 characters long.");
+    }
+
     try {
         const userCredential = await createUserWithEmailAndPassword(auth, email, password);
         localStorage.setItem("user", JSON.stringify(userCredential.user));
         return userCredential.user;
     } catch (error) {
+        console.error("Error during registration:", error.message);
         throw new Error(error.message);
     }
 };
