@@ -100,10 +100,10 @@ const ProductDescriptionTab = ({ spaceBottomClass, product }) => {
                   <div className="mt-3">
                     <h3>Estimated Delivery Times:</h3>
                     <p>
-                      🇺🇸 United States: 2-4 business days
-                      🇨🇦 Canada: 2-4 business days
-                      🇪🇺 Europe: 1-3 business days
-                      🇦🇺 Australia & New Zealand: 3-6 business days
+                      🇺🇸 United States: 2-4 business days <br />
+                      🇨🇦 Canada: 2-4 business days<br />
+                      🇪🇺 Europe: 1-3 business days<br />
+                      🇦🇺 Australia & New Zealand: 3-6 business days<br />
                       🌎 Rest of the World: 3-7 business days
                     </p>
                   </div>
